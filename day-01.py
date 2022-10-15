@@ -5,4 +5,6 @@
 
 
 # score = 1234
+
+#F-String in Python
 # print(f"Your score is {score}")
